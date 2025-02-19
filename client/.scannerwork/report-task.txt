@@ -1,0 +1,6 @@
+projectKey=FrontendCambio1
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=FrontendCambio1
+ceTaskId=6bafa56d-c910-4eba-bf8b-c669eaa46dae
+ceTaskUrl=http://localhost:9000/api/ce/task?id=6bafa56d-c910-4eba-bf8b-c669eaa46dae
